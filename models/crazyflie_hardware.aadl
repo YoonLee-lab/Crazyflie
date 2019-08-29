@@ -153,7 +153,7 @@ public
     STM32F405 : processor STM32F405;
     nrf51822 : processor nrf51822;
 
-    MPU9250 : device MPU9250;
+    MPU9250 : device MPU9250; -- MEMS SENSOR - GYRO 
     M1 : device Propeller;
     M2 : device Propeller;
     M3 : device Propeller;
